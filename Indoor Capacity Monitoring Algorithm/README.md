@@ -3,6 +3,7 @@ This is a group project using YOLOv4 and DeepSORT Algorithm to count the number 
 Introdunction Video to the project: https://www.youtube.com/watch?v=YEic-HGmmRU
 
 Colab walk through of the project: https://colab.research.google.com/drive/1i7B1MBoc3PgjLnMKjonvwmsOyES7i6zA?usp=sharing
+(The notebook contains video which will take some time to open)
 
 A glance at the final result:
 
