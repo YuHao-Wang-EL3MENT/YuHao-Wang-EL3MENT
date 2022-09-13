@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuHao-Wang-EL3MENT，a second-year graduate student studying Mechanical Industrial Engineering @ uoft
+- 👋 Hi, I’m @YuHao-Wang-EL3MENT，a second-year graduate studying Mechanical Industrial Engineering @ uoft
 - 👀 I’m interested in computer vision and image processing relate area
 - 🌱 I have learnt some basic machine learning technic such as ANN, CNN, GAN, RNN and successfully trained some personal YOLO model.
 - 📫 billyuhao.wang@mail.utoronto.ca
