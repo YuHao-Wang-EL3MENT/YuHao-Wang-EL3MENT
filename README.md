@@ -3,6 +3,7 @@
 - 🌱 I have learnt some basic machine learning technic such as ANN, CNN, GAN, RNN and successfully trained some personal YOLO model.
 - 📫 billyuhao.wang@mail.utoronto.ca
 - 🖥 This is more like a self introduction page which have all the projects that I have been messing around
+- 🔬 Currently I am under the supervision of Professor Farzad Khalvati to research and develop a preprocessing module for Brain MRI @ Intelligent Medical Image Computing Systems (IMICS) Lab www.imics.ca
 
 <!---
 YuHao-Wang-EL3MENT/YuHao-Wang-EL3MENT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
