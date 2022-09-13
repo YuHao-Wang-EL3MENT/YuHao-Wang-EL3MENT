@@ -2,6 +2,8 @@ This is a group project using YOLOv4 and DeepSORT Algorithm to count the number 
 
 Introdunction Video to the project: https://www.youtube.com/watch?v=YEic-HGmmRU
 
+Colab walk through of the project: https://colab.research.google.com/drive/1i7B1MBoc3PgjLnMKjonvwmsOyES7i6zA?usp=sharing
+
 A glance at the final result:
 
 In all cases, we predefine a boundary line that act as the "door" and an initial indoor capacity at 100 people. Both of which can be changed manually in advanced. When the algorithm detect the person that is crossing the line in a specific direction, it will add or subtract 1 to the overall capacity. The first and second video are taken at uoft. The third one is a sample video get from online source.
