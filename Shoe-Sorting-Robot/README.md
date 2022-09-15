@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/110743264/190171354-3364213f-9504-4b66
 For the paring task, I use the Scale Invariant Feature Transform or the SIFT algorithm. As shown below, the result is quite good.
 
 ![image](https://user-images.githubusercontent.com/110743264/190172651-a5782f3f-c1b9-44e5-bbfc-31d729087fa3.png)
+
+For other parts of the project, other members were in charge of implmenting SLAM to buildup the environment, path planning the robot to go to the destination,
+and path planning the manipulator to grip the shoe.
